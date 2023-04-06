@@ -1,4 +1,4 @@
-#� �K�i�t�c�h�e�n�D�i�s�p�l�a�y�S�y�s�t�e�m�
+#� �Kitchen Display System�
 �
 > Short blurb about what your product does.
 
@@ -6,7 +6,7 @@
 [![Build Status][travis-image]][travis-url]
 [![Downloads Stats][npm-downloads]][npm-url]
 
-An UI based To-Do list application to add or delete a task with Login and Signup page with Firebase as backend and Firebase Firestore for storing data.
+It is a Kitchen Display System where a worker can add items according to customer choices, remove them and generate bills for the same.
 
 
 ## Installation
@@ -17,30 +17,31 @@ Windows:
 npm install -g 
 ```
 
-## Usage examp
+## Usage example
 
-https://user-images.githubusercontent.com/89120598/223937013-5bf590e3-8f39-4eca-bca6-a82242695496.mp4
+File Size was too big so i will upload it after compressing.
 
 
 ## Dependencies
 ```sh
- "@expo/vector-icons": "^13.0.0",
-    "@expo/webpack-config": "^0.17.2",
-    "@react-native-firebase/messaging": "^16.5.0",
-    "@react-navigation/bottom-tabs": "^6.5.2",
-    "@react-navigation/native": "^6.1.1",
-    "@react-navigation/native-stack": "^6.9.7",
-    "@react-navigation/stack": "^6.3.10",
-    "expo": "~47.0.8",
-    "expo-status-bar": "~1.4.2",
-    "firebase": "^9.15.0",
-    "react": "18.1.0",
-    "react-dom": "18.1.0",
-    "react-native": "0.70.5",
-    "react-native-gesture-handler": "^2.8.0",
-    "react-native-swipeable": "^0.6.0",
-    "react-native-touchable-swipe": "^1.0.0",
-    "react-native-web": "~0.18.9"
+    "@expo/config-plugins": "~6.0.0",
+    "@expo/webpack-config": "^18.0.1",
+    "@react-native-community/masked-view": "^0.1.11",
+    "@react-native-picker/picker": "2.4.8",
+    "@react-navigation/native": "^6.1.6",
+    "@react-navigation/native-stack": "^6.9.12",
+    "@react-navigation/stack": "^6.3.16",
+    "expo": "~48.0.9",
+    "expo-status-bar": "~1.4.4",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-native": "0.71.6",
+    "react-native-gesture-handler": "^2.9.0",
+    "react-native-reanimated": "~2.14.4",
+    "react-native-safe-area-context": "^4.5.0",
+    "react-native-screens": "^3.20.0",
+    "react-native-web": "~0.18.10",
+    "recoil": "^0.7.7"
  ```
 
 
