@@ -19,7 +19,7 @@ npm install -g
 
 ## Usage example
 
-File Size was too big so i will upload it after compressing.
+https://user-images.githubusercontent.com/89120598/230546050-e0644ea1-c243-4727-9480-4e44204b14c6.mp4
 
 
 ## Dependencies
